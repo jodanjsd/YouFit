@@ -1,0 +1,6 @@
+{
+  "name": "FitPro",
+  "description": "Dark-performance fitness platform for guided workouts, exercise library, progress tracking, and premium memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
